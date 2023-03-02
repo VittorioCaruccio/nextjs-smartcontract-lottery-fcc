@@ -134,6 +134,7 @@ export default function LotteryEntrance() {
       </div>{" "}
       <div className="font-mono">Number of Players: {numPlayers} </div>
       <div className="font-mono">Last Winner: {recentWinner} </div>
+      <div>WHATS'APPPPPPPPPP</div>
     </div>
   ) : (
     <div>No valid raffle address has been found</div>
